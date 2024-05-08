@@ -1,0 +1,18 @@
+[package]
+name = "rs-opw-kinematics-user"
+version = "0.0.1"
+edition = "2021"
+description = "Independent project to test rs-opw-kinematics"
+authors = ["Bourumir Wyngs <bourumir.wyngs@gmail.com>"]
+keywords = ["robotics", "kinematics", "path-planning", "ik", "opw"]
+categories = ["science::robotics"]
+
+license = "BSD-3-Clause"
+repository = "https://github.com/bourumir-wyngs/rs-opw-kinematics-user"
+
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rs-opw-kinematics = ">=1.1.1, <2.0.0"

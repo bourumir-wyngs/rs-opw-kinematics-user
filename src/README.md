@@ -1,0 +1,2 @@
+This is a small independent project to test [rs-opw-kinematics](https://github.com/bourumir-wyngs/rs-opw-kinematics/tree/main) in isolated way, as being resolved from the package
+that is already deployed in crates.io. 
